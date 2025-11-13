@@ -1,6 +1,6 @@
 <!-- 상단 배너 (다크톤 + 대칭) -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=DongGu%20Shin%20GitHub&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=200&section=header&text=MinSeong%20Kim%20GitHub&fontSize=60&fontColor=ffffff)
 
 
 
@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringSecurity-2AC89F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-17219A?style=for-the-badge&logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/QueryDSL-8A084B?style=for-the-badge&logo=QueryDSL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </p>
 
