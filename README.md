@@ -46,7 +46,7 @@
   <a href="mailto:ggg672948@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-k3239361@gmail.com-D14836?style=flat&logo=gmail" />
   </a>
-  <a href="https://github.com/shsh99">
+  <a href="https://github.com/Kmansui">
     <img src="https://img.shields.io/badge/GitHub-Kmansui-181717?style=flat&logo=github" />
   </a>
 </p>
